@@ -1,0 +1,67 @@
+.heroo{
+    width:1200px;
+    height: 300px;
+    background: linear-gradient(skyblue,white);
+    margin: 10px 0px 50px 20px;
+    padding: 10px 20px 30px 40px;
+}
+.xyz {
+  vertical-align: middle;
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin-left:460px;
+  margin-right: auto;
+  width: 20%;
+}
+.sanvii{
+    width:1150px;
+    height: 50px;
+    background-color: black;
+    margin: 00px 0px 0px 00px;
+    padding: 00px 00px 00px 00px;
+}
+.yyy {
+    background-color:chartreuse;
+  vertical-align: top;
+  width: 180px;
+  height: 180px;
+  display: block;
+  margin-left:50px;
+  width: 100%;
+}
+.kkk {
+   
+ 
+  
+  display: block;
+ 
+  width: 100%;
+    left: 50px;
+}
+.ggg{
+    background-color:chartreuse;
+  vertical-align: top;
+  width: 180px;
+  height: 180px;
+  display: block;
+  width: 100%;
+}
+.zzz {
+
+  vertical-align: top;
+  width: 2000px;
+  height: 180px;
+  display: block;
+  margin-left:50px;
+  width: 100%;
+}
+.aaa{
+
+  vertical-align: top;
+  width: 100px;
+  height: 180px;
+  display: block;
+  width: 100%;
+}
